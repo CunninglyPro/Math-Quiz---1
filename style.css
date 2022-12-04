@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+#playerlogin1, #playerlogin2 {
+	margin-top: 30px;
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 10px;
+}
+
+#player1_name, #player2_name {
+	display: inline-block;
+	width: 30%;
+}
